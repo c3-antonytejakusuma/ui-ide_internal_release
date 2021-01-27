@@ -1,5 +1,5 @@
 {
-    "currentRelease": "0.0.2",
+    "currentRelease": "1.0.3",
     "releases": [
         {
             "version": "0.0.1",
@@ -12,12 +12,12 @@
             }
         },
         {
-            "version": "0.0.2",
+            "version": "1.0.3",
             "updateTo": {
-                "version": "0.0.2",
-                "pub_date": "2020-10-12",
+                "version": "1.0.3",
+                "pub_date": "2021-01-26",
                 "notes": "Test release 2",
-                "name": "0.0.2",
+                "name": "1.0.3",
                 "url": "https://artifacts.c3-e.com/v1/artifacts/file-repo/files/ui-ide_v0-0-2.zip"
             }
         }
